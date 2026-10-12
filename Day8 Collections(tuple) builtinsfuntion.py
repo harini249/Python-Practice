@@ -15,3 +15,4 @@ print("\nworking with tuple class methods \n")
 print("count of 6 in a tuple :  ",x.count(6))
 
 print("index of 4 : ",x.index(4))
+

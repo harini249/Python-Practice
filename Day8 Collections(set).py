@@ -16,7 +16,7 @@ a.add(100)  #add element
 print("After add : ",a)
 
 a.remove(2)
-print("\n After removing 3 : ",a)
+print("\n After removing 2 : ",a)
 
 
 # set is mutavle it allow only immutable so if we create list with immutable element raise error

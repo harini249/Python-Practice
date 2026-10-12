@@ -22,3 +22,7 @@ print("\n tuple cannot update if try will get error ")
 
 print(y)
 y[0] = 1
+
+
+
+
