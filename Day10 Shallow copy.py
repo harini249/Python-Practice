@@ -26,11 +26,5 @@ print("Data of d : ",d)
 print("\nMemory address of x variable : ",id(c))
 print("Memory address of y variable : ",id(d))
 
-print("\n Single dimensional ")
-# single dimensional
 
-x[1] = 20
-print("\nAfter update of x :",x)
-print("Same but y value : ",y)
-y[0] =10
-print("\nAfter update of y : ",y)
+print("\n============================")
