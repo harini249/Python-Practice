@@ -1,4 +1,4 @@
-# how to delete an obj manually EX 2
+# how to delete an obj manually EX 2 : By using pop function 
 
 a = [5,3,7,9,2]
 print("Before performing pop operation : ",a)
