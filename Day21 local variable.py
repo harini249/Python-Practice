@@ -1,8 +1,9 @@
-# variable
+#  local variables
 
-# local variables
-
-def f1(x,y):
-    z = x+y
-    print(x,y,z)
-f1(4,5)
+def place_order():
+    item = "Pizza"
+    quantity = 2
+    quantity = quantity + 1
+    print("Ordered : ",item)
+    print("Quantity : ",quantity)
+place_order()
